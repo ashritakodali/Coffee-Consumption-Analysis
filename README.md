@@ -6,7 +6,7 @@ This repository contains all relevant files and R scripts for analyzing **person
 
 ## 📦 Repository Contents
 
----
+```
 ├── 📂 data/
 │ ├── coffee population.csv
 │ ├── coffee_data_personal.csv
@@ -22,7 +22,7 @@ This repository contains all relevant files and R scripts for analyzing **person
 │ ├── server.R
 
 
----
+```
 
 ## 💻 Software & Dependencies
 
