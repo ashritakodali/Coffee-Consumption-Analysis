@@ -14,12 +14,8 @@ This repository contains all relevant files and R scripts for analyzing **person
 ├── 📂 scripts/
 │ ├── coffee_habits_analysis.Rmd
 │
-├── 📂 output/plots/
+├── 📂 output/
 │ ├── (generated upon knitting the Rmd)
-│
-├── 📂 shiny_app/
-│ ├── ui.R
-│ ├── server.R
 
 
 ```
